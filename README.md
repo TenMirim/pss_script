@@ -1,2 +1,3 @@
 # pss_script
-Some info on those .pss found in Puyo Puyo Tetris
+Some info on those .pss scripts found in Puyo Puyo Tetris
+To be continued.
